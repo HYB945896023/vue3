@@ -1,0 +1,1 @@
+import{_ as a}from"../../assets/index.23e8f858.js";import{at as s,o as d,e,L as o,B as t}from"../.pnpm/.pnpm.acc2b6ee.js";const n={class:"ddd"},r={class:"son"};const c=a({},[["render",function(a,c){const p=s("drag");return d(),e("div",n,[o((d(),e("div",r,[t("hahahhaha1")])),[[p,"ddd"]])])}],["__scopeId","data-v-d671eea8"]]);export{c as default};

@@ -1,0 +1,1 @@
+function r(n){if(""!==(null!=n?n:"")){var e=Array.isArray(n)?[]:{};for(var i in n)if(n.hasOwnProperty(i))if("object"==typeof n[i]){if(null===n[i]){e[i]=null;continue}e[i]=r(n[i])}else e[i]=n[i];return e}}export{r as deepClone};
